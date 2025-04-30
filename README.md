@@ -1,4 +1,4 @@
-# VPN免费机场 - 4月30日18.9M/S|免费V2ray/SSR/Shadowrocket/Clash节点机场链接  更新时间 2025-04-30 13:47:03
+# VPN免费机场 - 4月30日18M/S|免费SSR/Clash/V2ray/Shadowrocket节点机场链接  更新时间 2025-04-30 13:57:16
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://jichangmianfei.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
