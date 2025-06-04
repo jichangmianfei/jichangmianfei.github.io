@@ -1,4 +1,4 @@
-# VPN免费机场 - 5月26日20.8M/S|免费SSR/Shadowrocket/V2ray/Clash节点机场链接  更新时间 2025-05-26 10:26:52
+# VPN免费机场 - 6月4日20.2M/S|免费Clash/V2ray/Shadowrocket/SSR节点机场链接  更新时间 2025-06-04 09:37:57
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://jichangmianfei.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### Clash订阅链接
 
-- https://jichangmianfei.github.io/uploads/2025/05/0-20250526.yaml
-- https://jichangmianfei.github.io/uploads/2025/05/1-20250526.yaml
-- https://jichangmianfei.github.io/uploads/2025/05/2-20250526.yaml
-- https://jichangmianfei.github.io/uploads/2025/05/3-20250526.yaml
-- https://jichangmianfei.github.io/uploads/2025/05/4-20250526.yaml
+- https://jichangmianfei.github.io/uploads/2025/06/0-20250604.yaml
+- https://jichangmianfei.github.io/uploads/2025/06/1-20250604.yaml
+- https://jichangmianfei.github.io/uploads/2025/06/2-20250604.yaml
+- https://jichangmianfei.github.io/uploads/2025/06/3-20250604.yaml
+- https://jichangmianfei.github.io/uploads/2025/06/4-20250604.yaml
 
 ### V2ray订阅链接
 
-- https://jichangmianfei.github.io/uploads/2025/05/0-20250526.txt
-- https://jichangmianfei.github.io/uploads/2025/05/1-20250526.txt
-- https://jichangmianfei.github.io/uploads/2025/05/2-20250526.txt
-- https://jichangmianfei.github.io/uploads/2025/05/3-20250526.txt
-- https://jichangmianfei.github.io/uploads/2025/05/4-20250526.txt
+- https://jichangmianfei.github.io/uploads/2025/06/0-20250604.txt
+- https://jichangmianfei.github.io/uploads/2025/06/1-20250604.txt
+- https://jichangmianfei.github.io/uploads/2025/06/2-20250604.txt
+- https://jichangmianfei.github.io/uploads/2025/06/3-20250604.txt
+- https://jichangmianfei.github.io/uploads/2025/06/4-20250604.txt
 
 ### Sing-box订阅链接
 
-- https://jichangmianfei.github.io/uploads/2025/05/20250526.json
+- https://jichangmianfei.github.io/uploads/2025/06/20250604.json
 
 ## 更多clash节点订阅 ：
 
