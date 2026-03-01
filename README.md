@@ -1,4 +1,4 @@
-# VPN免费机场 - 2月16日19.4M/S|免费SSR节点/Singbox节点/V2ray节点/Shadowrocket节点/Clash节点节点机场链接  更新时间 2026-02-16 05:45:21
+# VPN免费机场 - 3月1日20.8M/S|免费Singbox节点/V2ray节点/Shadowrocket节点/SSR节点/Clash节点节点机场链接  更新时间 2026-03-01 11:06:02
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://jichangmianfei.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### 免费Clash节点订阅链接
 
-- https://jichangmianfei.github.io/uploads/2026/02/0-20260216.yaml
-- https://jichangmianfei.github.io/uploads/2026/02/1-20260216.yaml
-- https://jichangmianfei.github.io/uploads/2026/02/2-20260216.yaml
-- https://jichangmianfei.github.io/uploads/2026/02/3-20260216.yaml
-- https://jichangmianfei.github.io/uploads/2026/02/4-20260216.yaml
+- https://jichangmianfei.github.io/uploads/2026/03/0-20260301.yaml
+- https://jichangmianfei.github.io/uploads/2026/03/1-20260301.yaml
+- https://jichangmianfei.github.io/uploads/2026/03/2-20260301.yaml
+- https://jichangmianfei.github.io/uploads/2026/03/3-20260301.yaml
+- https://jichangmianfei.github.io/uploads/2026/03/4-20260301.yaml
 
 ### 免费V2ray节点订阅链接
 
-- https://jichangmianfei.github.io/uploads/2026/02/0-20260216.txt
-- https://jichangmianfei.github.io/uploads/2026/02/1-20260216.txt
-- https://jichangmianfei.github.io/uploads/2026/02/2-20260216.txt
-- https://jichangmianfei.github.io/uploads/2026/02/3-20260216.txt
-- https://jichangmianfei.github.io/uploads/2026/02/4-20260216.txt
+- https://jichangmianfei.github.io/uploads/2026/03/0-20260301.txt
+- https://jichangmianfei.github.io/uploads/2026/03/1-20260301.txt
+- https://jichangmianfei.github.io/uploads/2026/03/2-20260301.txt
+- https://jichangmianfei.github.io/uploads/2026/03/3-20260301.txt
+- https://jichangmianfei.github.io/uploads/2026/03/4-20260301.txt
 
 ### 免费Sing-box节点订阅链接
 
-- https://jichangmianfei.github.io/uploads/2026/02/20260216.json
+- https://jichangmianfei.github.io/uploads/2026/03/20260301.json
 
 ## 更多Clash节点订阅 ：
 
